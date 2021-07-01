@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vraj Patel</h1>
 <h3 align="center">Hey human lets be open to ourselves just like open source contribution "wink"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj129&label=Profile%20views&color=0e75b6&style=flat" alt="vraj129" /> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
