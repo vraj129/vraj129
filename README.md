@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vraj129&label=Profile%20views&color=0e75b6&style=flat" alt="vraj129" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj129" alt="vraj129" /></a> </p>
-
-- 🌱 I’m currently learning **Docker,Flutter,electron**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
