@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Flutter Developer<br>- 📚 I'm currently learning Angular, NodeJs and Golang.<br>- Just an enthusiastic Learner ;)</p>
+<p align="left">- 🔭 I’m working as Flutter Developer<br>- 📚 I'm currently learning Angular, NodeJs and Python specifcally for AI/ML<br>- Just an enthusiastic Learner ;)</p>
 
 ###
 
