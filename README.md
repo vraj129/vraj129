@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vraj129&theme=dark" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vraj129&theme=vue-dark&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
 ###
